@@ -1,2 +1,2 @@
 # Calc
-Simpleton calc.
+Simpleton calc. Easy, simple calc. Easy! Easy! Easy! LessGo
